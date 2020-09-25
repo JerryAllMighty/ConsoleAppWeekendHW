@@ -23,7 +23,7 @@ namespace ConsoleAppWeekendHW
                     int secondNumber = rand.Next(10, 100);
                     Console.WriteLine($"{secondNumber.ToString()}");
 
-                      
+                        
                     int function = rand.Next(1, 5);
 
                     switch (function)
